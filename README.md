@@ -57,3 +57,4 @@
 | [IT-KAMASUTRA](https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g)|[Методичка по JS](https://learn.javascript.ru/) |
 | | [Документация реакта](https://ru.reactjs.org/docs/getting-started.html)| 
 | | [Документация по node.js](https://nodejs.org/ru/) |
+||[Неофициальная, но хорошая документация-справочник по node.js](https://nodejsdev.ru)|
